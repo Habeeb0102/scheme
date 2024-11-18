@@ -1,0 +1,43 @@
+.with{
+    border: 20px solid yellowgreen;
+}
+.parent{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    gap: 3px;
+}
+
+.child0{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+ }
+
+ .child1{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+ }
+
+.child2{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+.child3{
+   background-color: blue;
+   width: 100px;
+    height: 100px;
+}
+
+.child4{
+    background-color: grey;
+    width: 100px;
+    height: 100px;
+ }
+
+ .child5{
+    background-color: palevioletred;
+    width: 100px;
+    height: 100px;
+ }
